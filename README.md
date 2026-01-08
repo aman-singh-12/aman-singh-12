@@ -1,29 +1,8 @@
 # 💫 Hi 👋, I'm Aman Singh
 
-🎓Computer Science student at Kalvium × LPU
-<br>
-<br>
+🎓A passionate Computer Science Engineering student at Kalvium, specializing in Software Product Engineering.
 
-🔭 **Education:**  
-Software Product Engineering —  Kalvium x  Lovely Professional University
 
-👯 **Collaboration interests:**  
-Industry-level projects focused on real-world problem solving and product development
-
-🤝 **Seeking guidance in:**  
-Backend systems, API design, and scalable application architecture
-
-🌱 **Learning:**  
-Backend development, databases, and system design fundamentals
-
-💬 **Topics I enjoy discussing:**  
-React, frontend architecture, and clean code practices
-
-⚡ **Fun fact:**  
-I prefer building functional prototypes over theoretical implementations
-
-<br>
-<br>
 
 
 # 🌐 Socials:
@@ -34,7 +13,7 @@ I prefer building functional prototypes over theoretical implementations
 
 
 <br>
-<br>
+
 
 
 # 💻 Tech Stack
@@ -94,7 +73,6 @@ I prefer building functional prototypes over theoretical implementations
 
 
 <br>
-<br>
 
 
 # 📊 GitHub Stats:
@@ -125,19 +103,16 @@ I prefer building functional prototypes over theoretical implementations
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aman-singh-3&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
 <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<br>
 <br>
 
 
