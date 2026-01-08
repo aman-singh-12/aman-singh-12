@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 Hi 👋, I'm Aman Singh
 
 🎓A passionate Computer Science Engineering student at Kalvium, specializing in Software Product Engineering.
@@ -11,12 +13,11 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman7t6s@gmial.com) 
 
 
-
 <br>
 
 
-
-# 💻 Tech Stack
+  
+# 💻 Tech Stack:
 
 
 
@@ -25,6 +26,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
+
+## 🧠 Programming Languages
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🎨 UI & Styling
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -37,13 +44,6 @@
 ![React Query](https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-## 🧠 Programming Languages
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 ## 🗄️ Databases & Data Science
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,9 +72,13 @@
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
+
 <br>
 
 
+
+  
 # 📊 GitHub Stats:
 
 
@@ -88,9 +92,9 @@
 
 
 <!-- </div><br>
-<!-- Snake Game Repo View -->
+Snake Game Repo View 
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> --> 
 
@@ -102,24 +106,51 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aman-singh-3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+
+
 <br>
 
-## 🏆 GitHub Trophies
+
+
+
+
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=aman-singh-3&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
+
 <br>
 
-### ✍️ Random Dev Quote
+
+
+
+
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+
+
+
+
 <br>
 
 
-### 🔝 Top Contributed Repo
+
+
+
+
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=aman-singh-3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aman-singh-3&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
