@@ -1,5 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
+# 💫 Hi 👋, I'm Aman Singh
+
+🎓Computer Science student at Kalvium × LPU
+<br>
+<br>
+
+🔭 **Education:**  
+Software Product Engineering —  Kalvium x  Lovely Professional University
+
+👯 **Collaboration interests:**  
+Industry-level projects focused on real-world problem solving and product development
+
+🤝 **Seeking guidance in:**  
+Backend systems, API design, and scalable application architecture
+
+🌱 **Learning:**  
+Backend development, databases, and system design fundamentals
+
+💬 **Topics I enjoy discussing:**  
+React, frontend architecture, and clean code practices
+
+⚡ **Fun fact:**  
+I prefer building functional prototypes over theoretical implementations
+
+<br>
+<br>
 
 
 # 🌐 Socials:
@@ -7,7 +31,15 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/amansingh0_12/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman7t6s@gmial.com) 
 
+
+
+<br>
+<br>
+
+
 # 💻 Tech Stack
+
+
 
 ## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,19 +93,29 @@
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+<br>
+<br>
+
 
 # 📊 GitHub Stats:
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-singh-12&theme=vision_friendly_dark)
-Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman-singh-12&theme=vision_friendly_dark)
-Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman-singh-12&theme=vision_friendly_dark)
-Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman-singh-12&theme=vision_friendly_dark)
-Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman-singh-12&theme=vision_friendly_dark&utcOffset=8)
+
+
+
+
+<!-- </div><br>
+<!-- Snake Game Repo View -->
+
+<!-- <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> --> 
+
 
 
 
@@ -82,11 +124,22 @@ Markdown Usage
 ![](https://nirzak-streak-stats.vercel.app/?user=aman-singh-3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh-3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aman-singh-3&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
+<br>
+<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+<br>
+<br>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aman-singh-3&limit=5&theme=dark&combine_all_yearly_contributions=true)
